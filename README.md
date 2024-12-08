@@ -14,7 +14,6 @@ We would gradually upload the full-version of the implementation.
   volume={},
   number={},
   pages={1-1},
-  keywords={Entropy;Modulation;Training;Source coding;Encoding;Symbols;Quantization (signal);Transforms;Image coding;Vectors;Digital modulation;multi-order modulation;joint source-channel coding;semantic communications},
   doi={10.1109/TCOMM.2024.3511949}}
 ```
 
