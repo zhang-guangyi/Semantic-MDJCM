@@ -36,7 +36,7 @@ pip install -r requirements.txt
 If you're having issues with installing PyTorch compatible with your CUDA version, we strongly recommend related documentation page (https://pytorch.org/get-started/previous-versions/).
 
 ## Pretrained Models
-- Download [MDJCM-ckpt](https://pan.baidu.com/s/1-xiEIH6eG2xnsOPDvlbo3Q?pwd=94yp) and put them into ./ckpt folder.
+- Download [MDJCM-ckpt](https://pan.baidu.com/s/1-xiEIH6eG2xnsOPDvlbo3Q?pwd=94yp) and put them into ./ckpt folder. This pretrained model is for MDJCM-A.
 
 ## Usage
 1. Example of train the MDJCM-A model:
