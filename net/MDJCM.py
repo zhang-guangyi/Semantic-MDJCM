@@ -207,4 +207,4 @@ class MDJCM_Model(NTC_Hyperprior):
         return mse_loss_ntc, bpp_y, bpp_z, mse_loss_MDJCM, cbr_y, x_hat_ntc, x_hat_MDJCM,mse_cecd
 
     def forward_NTC(self, input_image, **kwargs):
-        return super(MDJCM_Hyperprior, self).forward(input_image, **kwargs)
+        return super(NTC_Hyperprior, self).forward(input_image, **kwargs)
